@@ -7,15 +7,13 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 DEFAULT_CSV = 'final.csv'
-DEFAULT_PNG = 'graph.png'
+DEFAULT_PNG = 'visualisations/scatter/graph.png'
 
 def scatter_plot(
         csv_filename=DEFAULT_CSV, 
         x_column='Median Income in Postcode',
-        x_label='Median Income in Postcode',
         x_range=[30000, 70000],
         y_column='VCE Median Study Score',
-        y_label='VCE Median Study Score',
         y_range=[18, 50],
         png_filename=DEFAULT_PNG):
     """
@@ -40,9 +38,8 @@ def scatter_plot(
 
 if __name__ == "__main__":
     print("started")
-    scatter_plot(png_filename='visualisations/income_vs_study_score.png')
+    scatter_plot(png_filename='visualisations/scatter/income_vs_study_score.png')
     scatter_plot(
-            y_label='Percentage of study scores of 40 and over',
             y_column='Percentage of study scores of 40 and over',
             y_range=[0,20],
-            png_filename='visualisations/income_vs_over_40_scores.png')
+            png_filename='visualisations/scatter/income_vs_over_40_scores.png')
