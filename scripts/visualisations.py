@@ -13,10 +13,10 @@ def scatter_plot(
         csv_filename=DEFAULT_CSV, 
         x_column='Average Income in Postcode ',
         x_label='Average Income in Postcode',
-        x_min=40000, x_max=110000,
+        x_range=[40000, 110000],
         y_column='VCE median study score',
         y_label='VCE Median Study Score',
-        y_min=18, y_max=50,
+        y_range=[18, 50],
         png_filename=DEFAULT_PNG):
     """
         take a CSV file and draw up a scatter plot from the relevant columns
@@ -32,8 +32,8 @@ def scatter_plot(
     plt.figure()
     plt.scatter(x_data, y_data)
     plt.grid(True)
-    plt.xlim(x_min, x_max)
-    plt.ylim(y_min, y_max)
+    plt.xlim(x_range[0], x_range[1])
+    plt.ylim(y_range[0], y_range[1])
     plt.xlabel(x_column)
     plt.ylabel(y_column)
     plt.savefig(png_filename)
@@ -43,5 +43,6 @@ if __name__ == "__main__":
     scatter_plot(png_filename='visualisations/income_vs_study_score.png')
     scatter_plot(
             y_label='Percentage of study scores of 40 and over',
-            y_min=0, y_max=20,
+            y_column='Percentage of study scores of 40 and over',
+            y_range=[0,20],
             png_filename='visualisations/income_vs_over_40_scores.png')
