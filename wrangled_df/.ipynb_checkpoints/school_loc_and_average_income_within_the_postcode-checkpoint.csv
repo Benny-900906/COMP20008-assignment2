@@ -1,0 +1,351 @@
+,School Name,School Type,Locality,Postcode,Average Income in Postcode 
+0,Stott's Colleges,Secondary,MELBOURNE,3000,48785.0
+1,Ozford College,Secondary,MELBOURNE,3000,48785.0
+2,Holmes Secondary College,Secondary,MELBOURNE,3000,48785.0
+3,Simonds Catholic College,Secondary,WEST MELBOURNE,3003,61806.0
+4,MacRobertson Girls High School,Secondary,MELBOURNE,3004,77647.0
+5,Victorian College Of The Arts Secondary School,Secondary,SOUTHBANK,3006,68832.0
+6,Footscray High School,Secondary,Footscray,3011,61098.0
+7,Williamstown High School,Secondary,WILLIAMSTOWN,3016,84139.0
+8,Braybrook College,Secondary,BRAYBROOK,3019,48590.0
+9,Caroline Chisholm Catholic College,Secondary,BRAYBROOK,3019,48590.0
+10,Sunshine College,Secondary,SUNSHINE,3020,49665.0
+11,Marian College,Secondary,SUNSHINE WEST,3020,49665.0
+12,St Albans Secondary College,Secondary,ST ALBANS,3021,46328.0
+13,Victoria University Secondary College,Secondary,St. Albans,3021,46328.0
+14,Catholic Regional College,Secondary,ST ALBANS,3021,46328.0
+15,Lakeview Senior College,Secondary,Caroline Springs,3023,58317.0
+16,Catholic Regional College Caroline Springs,Secondary,CAROLINE SPRINGS,3023,58317.0
+17,Mount St Joseph Girls' College,Secondary,ALTONA NORTH,3025,66120.0
+18,Emmanuel College,Secondary,ALTONA NORTH,3025,66120.0
+19,Hoppers Crossing Secondary College,Secondary,HOPPERS CROSSING,3029,55780.0
+20,Tarneit Senior College,Secondary,Tarneit,3029,55780.0
+21,Thomas Carr College,Secondary,TARNEIT,3029,55780.0
+22,Wyndham Central Secondary College,Secondary,WERRIBEE,3030,63468.0
+23,Homestead Senior Secondary College,Secondary,Point Cook,3030,63468.0
+24,Werribee Secondary College,Secondary,WERRIBEE,3030,63468.0
+25,Point Cook Senior Secondary College,Secondary,Point Cook,3030,63468.0
+26,Suzanne Cory High School,Secondary,Werribee,3030,63468.0
+27,MacKillop Catholic Regional College,Secondary,WERRIBEE,3030,63468.0
+28,Mount Alexander 7-12 College,Secondary,FLEMINGTON,3031,72119.0
+29,Kensington Community High School,Secondary,FLEMINGTON,3031,72119.0
+30,Maribyrnong Secondary College,Secondary,MARIBYRNONG,3032,69388.0
+31,Copperfield College,Secondary,DELAHEY,3037,58983.0
+32,Catholic Regional College Institute of Training,Secondary,SYDENHAM,3037,58983.0
+33,Keilor Downs Secondary College,Secondary,Taylors Lakes,3038,60255.0
+34,Taylors Lakes Secondary College,Secondary,TAYLORS LAKES,3038,60255.0
+35,Catholic Regional College North Keilor,Secondary,TAYLORS LAKES,3038,60255.0
+36,Buckley Park College,Secondary,ESSENDON,3040,73488.0
+37,St Columba's College,Secondary,ESSENDON,3040,73488.0
+38,St Bernard's College,Secondary,ESSENDON,3040,73488.0
+39,Ave Maria College,Secondary,ABERFELDIE,3040,73488.0
+40,Strathmore Secondary College,Secondary,STRATHMORE,3041,71870.0
+41,Rosehill Secondary College,Secondary,NIDDRIE,3042,66384.0
+42,Essendon Keilor College,Secondary,NIDDRIE,3042,66384.0
+43,Gladstone Park Secondary College,Secondary,GLADSTONE PARK,3043,59907.0
+44,Pascoe Vale Girls Secondary College,Secondary,OAK PARK,3046,57071.0
+45,Glenroy Secondary College,Secondary,Glenroy,3046,57071.0
+46,Penola Catholic College,Secondary,GLENROY,3046,57071.0
+47,Hume Central Secondary College,Secondary,DALLAS,3047,43778.0
+48,St Aloysius College,Secondary,NORTH MELBOURNE,3051,63344.0
+49,University High School,Secondary,PARKVILLE,3052,61494.0
+50,Princes Hill Secondary College,Secondary,PRINCES HILL,3054,73916.0
+51,Sydney Road Community School,Secondary,BRUNSWICK,3056,63945.0
+52,Brunswick Secondary College,Secondary,BRUNSWICK,3056,63945.0
+53,Coburg High School,Secondary,Coburg,3058,63138.0
+54,Mercy College,Secondary,COBURG,3058,63138.0
+55,John Fawkner Secondary College,Secondary,Fawkner,3060,52409.0
+56,Roxburgh College,Secondary,Somerton BC Somerton,3062,60269.0
+57,Elevation Secondary College,Secondary,Craigieburn,3064,54253.0
+58,Craigieburn Secondary College,Secondary,CRAIGIEBURN,3064,54253.0
+59,Kolbe Catholic College,Secondary,CRAIGIEBURN,3064,54253.0
+60,Academy of Mary Immaculate,Secondary,FITZROY,3065,75116.0
+61,Fitzroy High School,Secondary,FITZROY NORTH,3068,81381.0
+62,Northcote High School,Secondary,NORTHCOTE,3070,74812.0
+63,Santa Maria College,Secondary,NORTHCOTE,3070,74812.0
+64,Thornbury High School,Secondary,Thornbury,3071,66748.0
+65,Northern College of the Arts and Technology,Secondary,NORTHLAND,3072,61053.0
+66,Preston High School,Secondary,Preston,3072,61053.0
+67,Reservoir High School,Secondary,RESERVOIR,3073,55362.0
+68,William Ruthven Secondary College,Secondary,Reservoir,3073,55362.0
+69,Thomastown Secondary College,Secondary,THOMASTOWN,3074,49720.0
+70,Lalor Secondary College,Secondary,LALOR,3075,50545.0
+71,Peter Lalor Secondary College,Secondary,EPPING,3076,53896.0
+72,Epping Secondary College,Secondary,EPPING,3076,53896.0
+73,Lalor North Secondary College,Secondary,EPPING,3076,53896.0
+74,St Monica's College,Secondary,EPPING,3076,53896.0
+75,Mill Park Secondary College,Secondary,MILL PARK,3082,56421.0
+76,Bundoora Secondary College,Secondary,BUNDOORA,3083,54536.0
+77,Parade College,Secondary,BUNDOORA,3083,54536.0
+78,Viewbank College,Secondary,VIEWBANK,3084,74543.0
+79,Our Lady of Mercy College,Secondary,HEIDELBERG,3084,74543.0
+80,Loyola College,Secondary,WATSONIA,3087,64448.0
+81,Greensborough Secondary College,Secondary,GREENSBOROUGH,3088,66340.0
+82,Diamond Valley College,Secondary,DIAMOND CREEK,3089,66771.0
+83,Montmorency Secondary College,Secondary,MONTMORENCY,3094,68143.0
+84,Eltham High School,Secondary,ELTHAM,3095,71820.0
+85,St Helena Secondary College,Secondary,ELTHAM NORTH,3095,71820.0
+86,Catholic Ladies' College Ltd,Secondary,ELTHAM,3095,71820.0
+87,Kew High School,Secondary,KEW EAST,3102,80461.0
+88,Balwyn High School,Secondary,BALWYN NORTH,3104,74688.0
+89,Marcellin College,Secondary,BULLEEN,3105,65723.0
+90,Templestowe College,Secondary,TEMPLESTOWE LOWER,3107,66472.0
+91,Doncaster Secondary College,Secondary,DONCASTER,3108,59915.0
+92,East Doncaster Secondary College,Secondary,DONCASTER EAST,3109,62653.0
+93,Whitefriars College Inc,Secondary,DONVALE,3111,69823.0
+94,Warrandyte High School,Secondary,Warrandyte,3113,71739.0
+95,Lynall Hall Community School,Secondary,RICHMOND,3121,80342.0
+96,Richmond High School,Secondary,Richmond,3121,80342.0
+97,Melbourne Girls College,Secondary,RICHMOND,3121,80342.0
+98,Brosnan Learning Centre,Secondary,RICHMOND,3121,80342.0
+99,Swinburne Senior Secondary College,Secondary,HAWTHORN,3122,82339.0
+100,Auburn High School,Secondary,Hawthorn East,3123,82326.0
+101,Alia College,Secondary,HAWTHORN EAST,3123,82326.0
+102,SEDA College (Victoria),Secondary,HAWTHORN EAST,3123,82326.0
+103,Siena College Ltd,Secondary,CAMBERWELL,3124,86333.0
+104,Camberwell High School,Secondary,CANTERBURY,3126,95165.0
+105,Canterbury Girls Secondary College,Secondary,CANTERBURY,3126,95165.0
+106,Box Hill High School,Secondary,BOX HILL,3128,57245.0
+107,Box Hill Senior Secondary College,Secondary,MONT ALBERT NORTH,3129,65418.0
+108,Koonung Secondary College,Secondary,MONT ALBERT NORTH,3129,65418.0
+109,Our Lady of Sion College,Secondary,KERRIMUIR,3129,65418.0
+110,Blackburn High School,Secondary,BLACKBURN,3130,67608.0
+111,Nunawading Christian College-Secondary,Secondary,NUNAWADING,3131,62361.0
+112,Mullauna Secondary College,Secondary,MITCHAM,3132,66162.0
+113,Vermont Secondary College,Secondary,Vermont,3133,64208.0
+114,Emmaus College,Secondary,VERMONT SOUTH,3133,64208.0
+115,Norwood Secondary College,Secondary,RINGWOOD,3134,63801.0
+116,Ringwood Secondary College,Secondary,RINGWOOD,3134,63801.0
+117,Aquinas College,Secondary,RINGWOOD,3134,63801.0
+118,Heathmont College,Secondary,HEATHMONT,3135,64081.0
+119,Croydon Community School,Secondary,Croydon,3136,61290.0
+120,Melba Secondary College,Secondary,Croydon,3136,61290.0
+121,Luther College,Secondary,CROYDON HILLS,3136,61290.0
+122,Mooroolbark College,Secondary,MOOROOLBARK,3138,59565.0
+123,Yarra Hills Secondary College,Secondary,MOOROOLBARK,3138,59565.0
+124,Lilydale Heights College,Secondary,Lilydale,3140,58416.0
+125,Lilydale High School,Secondary,LILYDALE,3140,58416.0
+126,Mount Lilydale Mercy College,Secondary,LILYDALE,3140,58416.0
+127,Melbourne High School,Secondary,SOUTH YARRA,3141,82166.0
+128,Glen Eira College,Secondary,CAULFIELD EAST,3145,81707.0
+129,Ashwood High School,Secondary,ASHWOOD,3147,77223.0
+130,Salesian College,Secondary,CHADSTONE,3148,61744.0
+131,Mount Waverley Secondary College,Secondary,MOUNT WAVERLEY,3149,66200.0
+132,Avila College,Secondary,MOUNT WAVERLEY,3149,66200.0
+133,Brentwood Secondary College,Secondary,GLEN WAVERLEY,3150,63201.0
+134,Highvale Secondary College,Secondary,GLEN WAVERLEY,3150,63201.0
+135,Wheelers Hill Secondary College,Secondary,WHEELERS HILL,3150,63201.0
+136,Glen Waverley Secondary College,Secondary,Glen Waverley,3150,63201.0
+137,Forest Hill College,Secondary,BURWOOD EAST,3151,57126.0
+138,Wantirna College,Secondary,WANTIRNA,3152,61249.0
+139,Bayswater Secondary College,Secondary,BAYSWATER,3153,56800.0
+140,Fairhills High School,Secondary,FERNTREE GULLY,3156,61027.0
+141,St Joseph's College,Secondary,FERNTREE GULLY,3156,61027.0
+142,Upwey High School,Secondary,UPWEY,3158,62800.0
+143,Mater Christi College,Secondary,BELGRAVE,3160,62287.0
+144,Oakwood School,Secondary,CAULFIELD NORTH,3161,73318.0
+145,Bentleigh Secondary College,Secondary,BENTLEIGH EAST,3165,70479.0
+146,St James'  College,Secondary,BENTLEIGH EAST,3165,70479.0
+147,Sacred Heart Girls' College,Secondary,OAKLEIGH,3166,63293.0
+148,South Oakleigh Secondary College,Secondary,OAKLEIGH SOUTH,3167,61241.0
+149,Westall Secondary College,Secondary,CLAYTON SOUTH,3169,51742.0
+150,Wellington Secondary College,Secondary,MULGRAVE,3170,60286.0
+151,Mazenod College,Secondary,MULGRAVE,3170,60286.0
+152,Nazareth College,Secondary,WAVERLEY GARDENS,3170,60286.0
+153,Killester College,Secondary,SPRINGVALE,3171,43919.0
+154,Keysborough Secondary College,Secondary,Springvale South,3172,53203.0
+155,Noble Park Secondary College,Secondary,NOBLE PARK,3174,46736.0
+156,Lyndale Secondary College,Secondary,DANDENONG NORTH,3175,48060.0
+157,Dandenong High School,Secondary,DANDENONG,3175,48060.0
+158,St John's Regional College,Secondary,DANDENONG,3175,48060.0
+159,Rowville Secondary College,Secondary,ROWVILLE,3178,62252.0
+160,Scoresby Secondary College,Secondary,SCORESBY,3179,58242.0
+161,Prahran High School,Secondary,Windsor,3181,78771.0
+162,Presentation College Windsor,Secondary,WINDSOR,3181,78771.0
+163,St Marys College Melbourne,Secondary,ST KILDA,3182,69095.0
+164,Elwood College,Secondary,ELWOOD,3184,80576.0
+165,Star of the Sea College,Secondary,BRIGHTON,3186,103637.0
+166,Brighton Secondary College,Secondary,BRIGHTON EAST,3187,91512.0
+167,Cheltenham Secondary College,Secondary,MOORABBIN,3189,67481.0
+168,Sandringham College,Secondary,SANDRINGHAM,3191,90913.0
+169,Beaumaris Secondary College,Secondary,Beaumaris,3193,88820.0
+170,Tombolo Academy,Secondary,BEAUMARIS,3193,88820.0
+171,Mentone Girls Secondary College,Secondary,MENTONE,3194,70211.0
+172,Kilbreda College,Secondary,MENTONE,3194,70211.0
+173,St Bede's College,Secondary,MENTONE,3194,70211.0
+174,Mordialloc College,Secondary,MORDIALLOC,3195,70672.0
+175,Parkdale Secondary College,Secondary,MORDIALLOC,3195,70672.0
+176,Patterson River Secondary College,Secondary,SEAFORD,3198,59323.0
+177,Mount Erin Secondary College,Secondary,FRANKSTON SOUTH,3199,58074.0
+178,Frankston High School,Secondary,FRANKSTON,3199,58074.0
+179,McClelland Secondary College,Secondary,FRANKSTON,3199,58074.0
+180,John Paul College,Secondary,FRANKSTON EAST,3199,58074.0
+181,Monterey Secondary College,Secondary,FRANKSTON NORTH,3200,47617.0
+182,Carrum Downs Secondary College,Secondary,CARRUM DOWNS,3201,55508.0
+183,McKinnon Secondary College,Secondary,MCKINNON,3204,74927.0
+184,Our Lady of the Sacred Heart College,Secondary,BENTLEIGH,3204,74927.0
+185,Youth2Industry College,Secondary,SOUTH MELBOURNE,3205,84350.0
+186,Albert Park College,Secondary,Albert Park,3206,115483.0
+187,Lara Secondary College,Secondary,LARA,3212,62541.0
+188,North Geelong Secondary College,Secondary,NORTH GEELONG,3215,58232.0
+189,Grovedale College,Secondary,GROVEDALE,3216,58795.0
+190,Belmont High School,Secondary,BELMONT,3216,58795.0
+191,Oberon High School,Secondary,Armstrong Creek,3216,58795.0
+192,Iona College Geelong,Secondary,CHARLEMONT,3217,60216.0
+193,Clonard College,Secondary,HERNE HILL,3218,63271.0
+194,Geelong High School,Secondary,EAST GEELONG,3219,53124.0
+195,Newcomb Secondary College,Secondary,NEWCOMB,3219,53124.0
+196,Matthew Flinders Girls Secondary College,Secondary,GEELONG,3220,66052.0
+197,Western Heights Secondary College,Secondary,GEELONG,3220,66052.0
+198,Sacred Heart College,Secondary,NEWTOWN,3220,66052.0
+199,St Joseph's College Geelong,Secondary,NEWTOWN,3220,66052.0
+200,Bellarine Secondary College,Secondary,DRYSDALE,3222,55743.0
+201,Saint Ignatius College Geelong,Secondary,DRYSDALE,3222,55743.0
+202,Surf Coast Secondary College,Secondary,Torquay,3228,65548.0
+203,Colac Secondary College,Secondary,Colac,3250,50264.0
+204,Trinity College Colac Inc,Secondary,COLAC,3250,50264.0
+205,Mercy Regional College,Secondary,CAMPERDOWN,3260,48579.0
+206,Cobden Technical School,Secondary,COBDEN,3266,48031.0
+207,Brauer Secondary College,Secondary,Warrnambool,3280,51319.0
+208,Warrnambool College,Secondary,Warrnambool,3280,51319.0
+209,Emmanuel College Inc.,Secondary,WARRNAMBOOL,3280,51319.0
+210,Baimbridge College,Secondary,HAMILTON,3300,49304.0
+211,Monivae College,Secondary,HAMILTON,3300,49304.0
+212,Heywood District Secondary College,Secondary,HEYWOOD,3304,50243.0
+213,Portland Secondary College,Secondary,PORTLAND,3305,56483.0
+214,Bayview College,Secondary,PORTLAND,3305,56483.0
+215,Casterton Secondary College,Secondary,CASTERTON,3311,47915.0
+216,Springside West Secondary College,Secondary,Fraser Rise,3336,
+217,Melton Secondary College,Secondary,MELTON,3337,54689.0
+218,Kurunjang Secondary College,Secondary,MELTON,3337,54689.0
+219,Catholic Regional College,Secondary,MELTON,3337,54689.0
+220,Staughton College,Secondary,MELTON SOUTH,3338,56247.0
+221,Bacchus Marsh College,Secondary,BACCHUS MARSH,3340,62158.0
+222,Mount Clear College,Secondary,BALLARAT,3350,57283.0
+223,St Patrick's College Ballarat,Secondary,BALLARAT,3350,57283.0
+224,Loreto College,Secondary,BALLARAT,3350,57283.0
+225,Damascus College,Secondary,MOUNT CLEAR,3350,57283.0
+226,Woodmans Hill Secondary College,Secondary,Bakery Hill,3354,
+227,Ballarat High School,Secondary,LAKE GARDENS,3355,50669.0
+228,Mount Rowan Secondary College,Secondary,Wendouree,3355,50669.0
+229,Beaufort Secondary College,Secondary,Beaufort,3373,51989.0
+230,Ararat Secondary College,Secondary,ARARAT,3377,52066.0
+231,Marian College,Secondary,ARARAT,3377,52066.0
+232,Stawell Secondary College,Secondary,STAWELL,3380,51116.0
+233,Warracknabeal Secondary College,Secondary,WARRACKNABEAL,3393,46267.0
+234,Horsham College,Secondary,HORSHAM,3402,
+235,St Brigid's College,Secondary,HORSHAM,3402,
+236,Dimboola Memorial Secondary College,Secondary,DIMBOOLA,3414,50774.0
+237,Sunbury College,Secondary,Sunbury,3429,62356.0
+238,Sunbury Downs Secondary College,Secondary,SUNBURY,3429,62356.0
+239,Salesian College,Secondary,SUNBURY,3429,62356.0
+240,Alice Miller School,Secondary,ROMSEY,3434,63200.0
+241,Gisborne Secondary College,Secondary,GISBORNE,3437,72624.0
+242,Kyneton High School,Secondary,KYNETON,3444,59453.0
+243,Sacred Heart College,Secondary,KYNETON,3444,59453.0
+244,Castlemaine Secondary College,Secondary,CASTLEMAINE,3450,51187.0
+245,Daylesford Secondary College,Secondary,DAYLESFORD,3460,52140.0
+246,Highview College,Secondary,MARYBOROUGH,3465,45704.0
+247,St Arnaud Secondary College,Secondary,ST ARNAUD,3478,46251.0
+248,Donald High School,Secondary,DONALD,3480,43844.0
+249,Red Cliffs Secondary College,Secondary,RED CLIFFS,3496,46034.0
+250,Irymple Secondary College,Secondary,IRYMPLE,3498,50483.0
+251,St Joseph's College Mildura,Secondary,MILDURA,3500,49597.0
+252,Chaffey Secondary College,Secondary,MILDURA,3502,
+253,Mildura Senior College,Secondary,MILDURA,3502,
+254,Bendigo South East 7-10 Secondary College,Secondary,Strathdale,3550,54143.0
+255,Catherine McAuley College,Secondary,BENDIGO,3550,54143.0
+256,Weeroona College Bendigo,Secondary,BENDIGO,3552,
+257,Bendigo Senior Secondary College,Secondary,BENDIGO,3552,
+258,Crusoe 7-10 Secondary College,Secondary,KANGAROO FLAT,3555,51114.0
+259,Eaglehawk Secondary College,Secondary,EAGLEHAWK,3556,48910.0
+260,Rochester Secondary College,Secondary,ROCHESTER,3561,47891.0
+261,Echuca College,Secondary,ECHUCA,3564,50340.0
+262,St Joseph's College,Secondary,ECHUCA,3564,50340.0
+263,Cohuna Secondary College,Secondary,COHUNA,3568,46986.0
+264,Kerang Technical High School,Secondary,KERANG,3579,44221.0
+265,Swan Hill College,Secondary,SWAN HILL,3585,48911.0
+266,St Mary MacKillop College,Secondary,SWAN HILL,3585,48911.0
+267,Greater Shepparton Secondary College,Secondary,Shepparton,3630,48998.0
+268,Notre Dame College,Secondary,SHEPPARTON,3630,48998.0
+269,Shepparton ACE Secondary College,Secondary,SHEPPARTON,3630,48998.0
+270,Numurkah Secondary College,Secondary,NUMURKAH,3636,49516.0
+271,Nathalia Secondary College,Secondary,NATHALIA,3638,47446.0
+272,St Mary of the Angels College,Secondary,NATHALIA,3638,47446.0
+273,Cobram Secondary College,Secondary,COBRAM,3644,48339.0
+274,Broadford Secondary College,Secondary,BROADFORD,3658,57282.0
+275,Euroa Secondary College,Secondary,EUROA,3666,48785.0
+276,FCJ College,Secondary,BENALLA,3672,50217.0
+277,Wangaratta High School,Secondary,WANGARATTA,3676,
+278,Galen Catholic College,Secondary,WANGARATTA,3676,
+279,Rutherglen High School,Secondary,RUTHERGLEN,3685,51974.0
+280,Catholic College Wodonga,Secondary,WODONGA,3689,
+281,Wodonga Senior Secondary College,Secondary,WODONGA,3690,53698.0
+282,Mount Beauty Secondary College,Secondary,MOUNT BEAUTY,3699,45491.0
+283,Tallangatta Secondary College,Secondary,TALLANGATTA,3700,48239.0
+284,Rubicon Outdoor School,Secondary,THORNTON,3712,51202.0
+285,Alexandra Secondary College,Secondary,ALEXANDRA,3714,49870.0
+286,Yea High School,Secondary,YEA,3717,51386.0
+287,Mansfield Secondary College,Secondary,MANSFIELD,3724,
+288,Sacred Heart College,Secondary,YARRAWONGA,3730,49949.0
+289,Marian College,Secondary,MYRTLEFORD,3737,48539.0
+290,Beechworth Secondary College,Secondary,Beechworth,3747,52145.0
+291,Edgars Creek Secondary College,Secondary,Wollert,3750,57135.0
+292,Wallan Secondary College,Secondary,Wallan,3756,59117.0
+293,Whittlesea Secondary College,Secondary,WHITTLESEA,3757,59011.0
+294,Assumption College,Secondary,KILMORE,3764,59784.0
+295,Healesville High School,Secondary,HEALESVILLE,3777,53943.0
+296,Emerald Secondary College,Secondary,EMERALD,3782,60982.0
+297,Monbulk College,Secondary,MONBULK,3793,54527.0
+298,Upper Yarra Secondary College,Secondary,Yarra Junction,3797,51162.0
+299,John Monash Science School,Secondary,Monash University,3800,33410.0
+300,Gleneagles Secondary College,Secondary,Endeavour Hills,3802,54567.0
+301,Hallam Senior Secondary College,Secondary,Hallam,3803,50194.0
+302,Fountain Gate Secondary College,Secondary,Hallam,3803,50194.0
+303,Nossal High School,Secondary,NARRE WARREN,3805,55224.0
+304,Alkira Secondary College,Secondary,Narre Warren South,3805,55224.0
+305,Berwick Secondary College,Secondary,BERWICK,3806,62547.0
+306,Kambrya College,Secondary,BERWICK,3806,62547.0
+307,St Francis Xavier College,Secondary,BEACONSFIELD,3807,64424.0
+308,Officer Secondary College,Secondary,Officer,3809,60421.0
+309,Pakenham Secondary College,Secondary,PAKENHAM,3810,55168.0
+310,Edenbrook Secondary College,Secondary,Pakenham,3810,55168.0
+311,Drouin Secondary College,Secondary,DROUIN,3818,53660.0
+312,Warragul Regional College,Secondary,WARRAGUL,3820,56982.0
+313,Marist-Sion College,Secondary,WARRAGUL,3820,56982.0
+314,Trafalgar High School,Secondary,TRAFALGAR,3824,59030.0
+315,Lowanna College,Secondary,MOE,3825,56857.0
+316,Neerim District Secondary College,Secondary,NEERIM SOUTH,3831,55740.0
+317,Kurnai College,Secondary,Morwell BC,3841,
+318,Traralgon College,Secondary,TRARALGON,3844,64749.0
+319,Lavalla Catholic College,Secondary,TRARALGON,3844,64749.0
+320,Sale College,Secondary,SALE,3850,60713.0
+321,Catholic College Sale,Secondary,SALE,3850,60713.0
+322,Maffra Secondary College,Secondary,MAFFRA,3860,57118.0
+323,Mirboo North Secondary College,Secondary,MIRBOO NORTH,3871,57041.0
+324,Bairnsdale Secondary College,Secondary,BAIRNSDALE,3875,49920.0
+325,Nagle College,Secondary,BAIRNSDALE,3875,49920.0
+326,Orbost Secondary College,Secondary,ORBOST,3888,47465.0
+327,Lakes Entrance Secondary College,Secondary,LAKES ENTRANCE,3909,45859.0
+328,Elisabeth Murdoch College,Secondary,LANGWARRIN,3910,59969.0
+329,Somerville Secondary College,Secondary,Somerville,3912,57912.0
+330,Western Port Secondary College,Secondary,HASTINGS,3915,53162.0
+331,Mount Eliza Secondary College,Secondary,MOUNT ELIZA,3930,74841.0
+332,Mornington Secondary College,Secondary,MORNINGTON,3931,59820.0
+333,Padua College,Secondary,MORNINGTON,3931,59820.0
+334,Dromana Secondary College,Secondary,DROMANA,3936,55790.0
+335,Rosebud Secondary College,Secondary,ROSEBUD,3939,50947.0
+336,Korumburra Secondary College,Secondary,KORUMBURRA,3950,51482.0
+337,Leongatha Secondary College,Secondary,LEONGATHA,3953,51028.0
+338,Mary MacKillop Catholic Regional College,Secondary,LEONGATHA,3953,51028.0
+339,Foster Secondary College,Secondary,FOSTER,3960,49704.0
+340,Yarram Secondary College,Secondary,YARRAM,3971,47997.0
+341,Hampton Park Secondary College,Secondary,HAMPTON PARK,3976,50053.0
+342,Lyndhurst Secondary College,Secondary,CRANBOURNE,3977,55776.0
+343,Cranbourne Secondary College,Secondary,CRANBOURNE,3977,55776.0
+344,Cranbourne West Secondary College,Secondary,Cranbourne West,3977,55776.0
+345,Cranbourne East Secondary College,Secondary,Cranbourne,3977,55776.0
+346,St Peter's College,Secondary,CRANBOURNE,3977,55776.0
+347,Koo Wee Rup Secondary College,Secondary,KOO WEE RUP,3981,52940.0
+348,Wonthaggi Secondary College,Secondary,WONTHAGGI,3995,45961.0
+349,Village High School,Secondary,WONTHAGGI,3995,45961.0
