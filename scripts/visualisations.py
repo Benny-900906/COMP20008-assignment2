@@ -6,15 +6,15 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
-DEFAULT_CSV = 'wrangled_df/final.csv'
+DEFAULT_CSV = 'final.csv'
 DEFAULT_PNG = 'graph.png'
 
 def scatter_plot(
         csv_filename=DEFAULT_CSV, 
-        x_column='Average Income in Postcode ',
-        x_label='Average Income in Postcode',
-        x_range=[40000, 110000],
-        y_column='VCE median study score',
+        x_column='Median Income in Postcode',
+        x_label='Median Income in Postcode',
+        x_range=[30000, 70000],
+        y_column='VCE Median Study Score',
         y_label='VCE Median Study Score',
         y_range=[18, 50],
         png_filename=DEFAULT_PNG):
