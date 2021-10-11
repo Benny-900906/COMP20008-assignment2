@@ -10,12 +10,14 @@ from bs4 import BeautifulSoup
 
 def html_to_csv(html_filename, csv_filename):
     """
+        take an html file, and turn it into a csv
     """
 
     # import the html
     with open(html_filename, 'r') as html_file:
         html = BeautifulSoup(html_file.read(), 'html.parser')
     
+
     print(html)
 
 if __name__ == '__main__':
