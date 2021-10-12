@@ -10,7 +10,7 @@ DEFAULT_CSV = 'final.csv'
 DEFAULT_PNG = 'visualisations/scatter/graph.png'
 
 def scatter_plot(
-        csv_filename=DEFAULT_CSV, 
+        csv_filename=DEFAULT_CSV,
         x_column='Median Income in Postcode',
         x_range=[30000, 70000],
         y_column='VCE Median Study Score',

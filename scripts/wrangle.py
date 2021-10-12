@@ -1,8 +1,8 @@
-import pandas as pd 
-import html.parser 
+import pandas as pd
+import html.parser
 from numpy import arange
 import nltk
-from nltk.corpus import stopwords 
+from nltk.corpus import stopwords
 import re
 
 DEFAULT_INCOME_FILE = 'raw_data/0_taxation_by_postcode.csv'
