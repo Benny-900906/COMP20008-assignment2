@@ -9,6 +9,7 @@ from descartes import PolygonPatch
 import pandas as pd
 from csv import reader
 from colorutils import Color
+import geopandas as gpd
 
 # define the colour blue
 BLUE = '#6699cc'
@@ -134,31 +135,34 @@ def draw_polygons_colored(postcodes, postcode_to_polygon, postcode_to_color, fil
     """
         draws every polygon, colored in accordance with a postcode_to_color dict
     """
+    print('drawing the polygons colored')
 
     # set up the figure
-    fig = plt.figure(dpi=2000)
+    fig = plt.figure(dpi=800)
     ax = fig.gca()
 
     # add every postcode to the figure
     for postcode in postcodes:
         if postcode not in postcode_to_polygon or postcode not in postcode_to_color:
             continue
-        
-        print(f'printing postcode {postcode}')
 
         poly = postcode_to_polygon[postcode]
         color = postcode_to_color[postcode]
         ax.add_patch(PolygonPatch(poly, fc=color, ec=None, linewidth=0, alpha=1, zorder=2))
 
     # scale and export
+    ax.axes.xaxis.set_visible(False)
+    ax.axes.yaxis.set_visible(False)
+    
     ax.axis('scaled')
+    plt.title('Median income across Victoria')
     plt.savefig(filename)
 
 
 if __name__ == '__main__':
     postcode_to_polygon = get_postcode_to_polygon()
     postcode_to_income = get_postcode_to_feature(DEFAULT_CSV, "Median taxable income or loss")
-    print(postcode_to_income['3056'])
+    # print(postcode_to_income['3056'])
     # print(postcode_to_income)
     postcode_to_color = get_postcode_to_color(postcode_to_income)
     # print(postcode_to_color)
@@ -174,7 +178,7 @@ if __name__ == '__main__':
     melbourne_postcodes.extend([str(i) for i in range(3975, 3978)])
     melbourne_postcodes.extend([str(3980)])
 
-    print(melbourne_postcodes)
+    # print(melbourne_postcodes)
     # draw_polygon('3056', postcode_to_polygon, 'visualisations/chloropleth/brunswick.png')
     # draw_all_polygons(postcode_to_polygon, 'visualisations/chloropleth/vic.png')
-    draw_polygons_colored(postcode_to_polygon.keys(), postcode_to_polygon, postcode_to_color, 'visualisations/chloropleth/median_income.png')
+    draw_polygons_colored(melbourne_postcodes, postcode_to_polygon, postcode_to_color, 'visualisations/choropleth/median_income2.png')
