@@ -1,3 +1,10 @@
+"""
+wrangles together a merged dataset which focuses on a school-by-school overview
+so for each school, it lists the income in that postcode, and the VCE study scores
+
+saves to wrangled_df/school_final.csv
+"""
+
 import pandas as pd
 import html.parser
 from numpy import arange
@@ -9,7 +16,7 @@ DEFAULT_INCOME_FILE = 'raw_data/0_taxation_by_postcode.csv'
 DEFAULT_SCHOOL_PERFORMANCE_FILE = 'raw_data/1_school_vce_performance.csv'
 DEFAULT_SCHOOL_LOCATIONS_FILE = 'raw_data/2_school_locations.csv'
 
-DEFAULT_OUTPUT_FILE = 'final.csv'
+DEFAULT_OUTPUT_FILE = 'wrangled_df/school_final.csv'
 
 def wrangle_income(income_file):
     """
@@ -35,18 +42,17 @@ def wrangle_school_locations(school_locations_file):
         extracts the meaningful data and returns a dataframe
     """
 
-    # 
     # get the school locations and average income data
     school_data = pd.read_csv(DEFAULT_SCHOOL_LOCATIONS_FILE, encoding = "ISO-8859-1")
 
 
     # only consider secondary schools
-    school_data = school_data.loc[school_data["School_Type"] == "Secondary"]
+    school_data = school_data.loc[school_data["School_Type"].isin(["Secondary", "Pri/Sec"])]
     # and extract the postcode
     school_postcode = [x.upper() for x in school_data["Postal_Town"]]
     
     school_location_dataframe = pd.DataFrame({
-        "School Name": school_data["School_Name"],
+        "School Name": school_data["School_Name"].str.replace(r',', ''),
         "Locality": school_data["Postal_Town"],
         "Postcode": school_data["Postal_Postcode"]
     })
@@ -81,5 +87,5 @@ if __name__ == '__main__':
     
     # merge it all and export
     final_data = school_locations_data.merge(income_data, how='left', on='Postcode', sort=True)
-    final_data = final_data.merge(school_performance_data, how='left', on=['School Name', 'Locality'])
+    final_data = final_data.merge(school_performance_data, how='left', on='School Name')
     final_data.to_csv(DEFAULT_OUTPUT_FILE, index=False)
