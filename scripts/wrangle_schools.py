@@ -53,7 +53,7 @@ def wrangle_school_locations(school_locations_file):
     
     school_location_dataframe = pd.DataFrame({
         "School Name": school_data["School_Name"].str.replace(r',', ''),
-        "Locality": school_data["Postal_Town"],
+        "Education Sector": school_data["Education_Sector"],
         "Postcode": school_data["Postal_Postcode"]
     })
     return school_location_dataframe
