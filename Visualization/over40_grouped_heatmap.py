@@ -32,28 +32,22 @@ def generate_over40_heatmap():
     cutted_series = pd.qcut(median_income_data, 4, labels = labels_array)
     
     cutted_series.name = 'Median Income Groups'
-    print(cutted_series)
     
     # Merge the cutted_series with median_series
     merged_df = pd.merge(over40_valid_data, cutted_series,  right_index = True, left_index = True)
-    print(merged_df)
     merged_df = merged_df.sort_values('Median Income Groups')#.set_index('Median Income Groups')
     merged_df.drop('Median Income in Postcode', axis=1, inplace=True)
-    print(merged_df)
 
     # Create the index array to draw the seperation lines on heatmap
     indices_counts = merged_df['Median Income Groups'].value_counts().sort_index()
-    print(indices_counts)
     index_array = []
     start = 0
     for i in range(len(indices_counts.values) -1): # One less than the length because there should be no line at the bottom
         index_array.append(start + indices_counts.values[i])
         start += indices_counts.values[i]
-    print(index_array)
 
     merged_df.sort_values(['Median Income Groups', 'Percentage of study scores of 40 and over'], ascending = (True, False), inplace = True)   
     merged_df = merged_df.set_index('Median Income Groups')
-    print(merged_df)
     
      # Generate the actual heatmap
     sns.set(rc = {'figure.figsize':(2,10)})
