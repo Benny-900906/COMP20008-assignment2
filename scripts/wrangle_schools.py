@@ -79,6 +79,7 @@ def wrangle_school_performance(school_performance_file):
 
     return school_performance_dataframe
 
+
 if __name__ == '__main__':
     # import each of the separate datasets
     income_data = wrangle_income(DEFAULT_INCOME_FILE)
